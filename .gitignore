@@ -1,0 +1,5 @@
+*.snowenv
+*.terraform*
+*.tfstate
+*.tfstate.*
+
